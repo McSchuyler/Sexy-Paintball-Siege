@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4d28f6076b428104596b25ad4e2fddc1
+timeCreated: 1517252582
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alex Brush
+  fontNames:
+  - Alex Brush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
